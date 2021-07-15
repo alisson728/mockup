@@ -1,0 +1,44 @@
+header img{
+    height: 22.83vh;
+    width: 22.83vh;
+}
+.navbar-nav{
+    margin-left: 80%;
+}
+main {
+    width:  143.07vh;
+    margin:  10.65vh auto;
+}
+form {
+    margin: 6.08vh 0;
+}
+form label, form legend  {
+    display:block;
+    font-size: 3.04vh;
+    margin: 0 0 1.52vh;
+}
+.input-padrao {
+    display: block;
+    margin: 0 0 3.04vh;
+    padding:  1.52vh 3.80vh;
+    width: 50%;
+}
+.checkbox {
+    margin: 3.04vh 0;
+}
+.enviar {
+    width:40%;
+    padding: 2.28vh 0;
+    background: orange;
+    color: white;
+    font-weight: bold;
+    font-size: 2.73vh;
+    border: none;
+    border-radius: 0.76vh;
+    transition: 1s all;
+    cursor: pointer;
+}
+.enviar:hover {
+    background: darkorange;
+    transform: scale(1.2);
+}
