@@ -14,13 +14,13 @@
     margin-top:  3.04vh;
 }
 .card{
-    height:53.27vh;
+    height:300px ;
     background-color:#c7c7c7!important;
     
 }
 .tamanho{
-    height:   30.44vh;
-    width: 22.83vh;
+    height:  22.83vh;
+    width: 15.22vh;
     display: flex;
     margin-left:  7.61vh;
 }
