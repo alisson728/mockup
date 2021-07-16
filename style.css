@@ -18,18 +18,18 @@
     margin-top:  3.04vh;
 }
 .card{
-    height:350px ;
-    width: 230px;
+    height:53.27vh ;
+    width: 35.00vh;
 
    
     background-color:#c7c7c7!important;
     
 }
 .tamanho{
-    height:   250px;
-    width:   200px;
+    height:    38.05vh;
+    width:    30.44vh;
     display: flex;
-    padding: 10px;
+    padding:1.52vh;
 }
 .navbar-nav{
     margin-left: 80%;
@@ -39,11 +39,11 @@
 }
 .py-5{
     background-color: rgb(0, 0, 0);
-    margin: ;
+   width: 100%;
 }
 .fw-light{
-    color: cornsilk;
+    color: rgb(242, 196, 10);
 }
 .lead{
-    color: rgb(154, 154, 154);
+    color: darkred;
 }
