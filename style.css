@@ -47,3 +47,7 @@
 .lead{
     color: darkred;
 }
+.mb-0{
+    margin: 20px;
+    padding-top: 10px;
+}
