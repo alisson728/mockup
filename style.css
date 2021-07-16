@@ -15,7 +15,7 @@
 }
 .card{
     height:350px ;
-    width: 300px;
+    width: 250px;
    
     background-color:#c7c7c7!important;
     
@@ -29,6 +29,6 @@
 .navbar-nav{
     margin-left: 80%;
 }
-.{
-    margin-left: 100px;
+.col{
+   margin: 0px;
 }
