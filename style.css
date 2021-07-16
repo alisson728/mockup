@@ -29,11 +29,21 @@
     height:   250px;
     width:   200px;
     display: flex;
-    margin-left: ;
+    padding: 10px;
 }
 .navbar-nav{
     margin-left: 80%;
 }
 .col{
    margin: 0px;
+}
+.py-5{
+    background-color: rgb(0, 0, 0);
+    margin: ;
+}
+.fw-light{
+    color: cornsilk;
+}
+.lead{
+    color: rgb(154, 154, 154);
 }
